@@ -83,7 +83,7 @@ echo
 git clone -b v0.35.0  --depth 1 https://github.com/facebook/folly.git
 git clone -b v0.24.0  --depth 1 https://github.com/facebook/fbthrift.git
 git clone https://github.com/facebook/thpp
-git clone https://github.com/facebook/fblualib
+git clone https://github.com/zultuta/fblualib
 
 echo
 echo Building folly
